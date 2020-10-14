@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="name_heroes">Nama Pahlawan</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Black Emperor</item>
+        <item>Blue Admiral</item>
+        <item>Golden Admiral</item>
+        <item>Greentea Emperor</item>
+        <item>Pink Admiral</item>
+        <item>Red Admiral</item>
+        <item>Scarlett Emperor</item>
+        <item>Shadow Emperor</item>
+        <item>Violet Emperor</item>
+        <item>Yellow Admiral</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>BUTTERFLY BUS
+“EMPEROR SERIES”
+- New Sensation with Air Suspension -
+
+aka “ BLACK EMPEROR “
+New SuperJet Butterfly Bus Voyager with Air Suspension
+Limited Edition
+Ready to Explore
+Indonesia.
+Ready to Accompany You as Travelling Partner.🦋🚌 BUTTERFLY BUS 🦋🚌
+“EMPEROR SERIES”
+- New Sensation with Air Suspension -
+
+aka “ BLACK EMPEROR “
+New SuperJet Butterfly Bus Voyager with Air Suspension
+Limited Edition
+Ready to Explore
+Indonesia.
+Ready to Accompany You as Travelling Partner </item>
+        <item>BUTTERFLY BUS
+“Admiral SERIES”
+
+aka “ Blue Admiral “
+New SuperJet Butterfly
+Limited Edition
+Ready to Explore
+Indonesia.
+Ready to Accompany You as Travelling Partner. </item>
+        <item>BUTTERFLY BUS
+“Admiral SERIES”
+
+
+aka “Golden Admiral “
+New SuperJet Butterfly Bus Voyager
+Limited Edition
+Ready to Explore
+Indonesia.
+Ready to Accompany You as Travelling Partner. </item>
+        <item>BUTTERFLY BUS
+“EMPEROR SERIES”
+
+aka “ Greentea EMPEROR “
+New SuperJet Butterfly Bus Voyager
+Limited Edition
+Ready to Explore
+Indonesia.
+Ready to Accompany You as Travelling Partner.  </item>
+        <item> BUTTERFLY BUS
+“Admiral SERIES”
+
+aka “ Pink Admiral“
+New SuperJet Butterfly
+Limited Edition
+Ready to Explore
+Indonesia.
+Ready to Accompany You as Travelling Partner. </item>
+        <item>  BUTTERFLY BUS
+“Admiral SERIES”
+
+aka “ Red Admiral“
+New SuperJet Butterfly
+Limited Edition
+Ready to Explore
+Indonesia.
+Ready to Accompany You as Travelling Partner. </item>
+        <item> BUTTERFLY BUS
+“EMPEROR SERIES”
+
+aka “ Scarlet EMPEROR “
+New SuperJet Butterfly Bus Voyager
+Limited Edition
+Ready to Explore
+Indonesia.
+Ready to Accompany You as Travelling Partner. </item>
+        <item> BUTTERFLY BUS
+“EMPEROR SERIES”
+
+aka “ Shadow EMPEROR “
+New SuperJet Butterfly Bus Voyager
+Limited Edition
+Ready to Explore
+Indonesia.
+Ready to Accompany You as Travelling Partner. </item>
+        <item>BUTTERFLY BUS
+“EMPEROR SERIES”
+- New Sensation with Air Suspension -
+
+aka “ Violet EMPEROR “
+New SuperJet Butterfly Bus Voyager 
+Limited Edition
+Ready to Explore
+Indonesia.
+Ready to Accompany You as Travelling Partner.  </item>
+        <item>  BUTTERFLY BUS
+“Admiral SERIES”
+
+aka “ Yellow Admiral“
+New SuperJet Butterfly
+Limited Edition
+Ready to Explore
+Indonesia.
+Ready to Accompany You as Travelling Partner. </item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/kka_blackemperor</item>
+        <item>@drawable/kka_blueadmiral</item>
+        <item>@drawable/kka_goldenadmiral</item>
+        <item>@drawable/kka_greenteaemperor</item>
+        <item>@drawable/kka_pinkadmral</item>
+        <item>@drawable/kka_redadmiral</item>
+        <item>@drawable/kka_scarlettemperor</item>
+        <item>@drawable/kka_shadowemperor</item>
+        <item>@drawable/kka_violetemperor</item>
+        <item>@drawable/kka_yellowadmiral</item>
+    </array>
+</resources>
